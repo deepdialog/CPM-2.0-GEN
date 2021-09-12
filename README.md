@@ -4,4 +4,6 @@
 
 注意T5/mT5模型本身不太适合类似GPT-3的生成，应该更适合进行prompt-fintune/soft-prompt-finetune
 
-这里现在没有prompt-finetune相关代码
+## 本REPO的食用方法：
+
+建议主要参考[to_tensorflow.ipynb](to_tensorflow.ipynb)这个notebook，使用基于`transformers`的方法，调用于测试与测试
