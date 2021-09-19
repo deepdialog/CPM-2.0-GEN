@@ -1,3 +1,4 @@
 *.zip
 *.py[cod]
 .ipynb_checkpoints
+cpm_2_0_encoder
