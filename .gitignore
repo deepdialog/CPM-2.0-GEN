@@ -2,3 +2,5 @@
 *.py[cod]
 .ipynb_checkpoints
 cpm_2_0_encoder
+cpm_2_0_tf_encoder
+*.pt
